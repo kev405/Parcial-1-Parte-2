@@ -112,3 +112,34 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# ---------------------------------------------------------------
+# Reglas adicionales del proyecto (SO, IDEs y archivos temporales)
+# ---------------------------------------------------------------
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# IDEs / editores
+.idea/
+.vscode/
+*.swp
+*~
+
+# Crash reports y archivos temporales de Unity
+/[Cc]rash[Rr]eports/
+*.stackdump
+*.bak
+*.orig
+
+# Backups de Blender (ademas de *.blend1)
+*.blend[2-9]
+*.blend[2-9].meta
